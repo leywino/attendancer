@@ -1,0 +1,2 @@
+python do_attendance_for_me.py
+pause

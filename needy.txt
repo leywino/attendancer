@@ -1,0 +1,3 @@
+website_username="Anjana"
+website_password="an"
+what_days_to_avoid_attendance="6,13,20,27,3,4"
